@@ -7,5 +7,8 @@
 
 '''
 sum=lambda x,y:x+y
-
 print(sum(10,43))
+
+# x=30
+# y=5
+# print(x if x>y else y)
